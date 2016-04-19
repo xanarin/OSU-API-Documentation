@@ -11,7 +11,7 @@ This reference is intended to be used for developers who would like to access th
 These APIs should be much more dependable than programmatically scraping OSU's public-facing websites or tracking values by hand.
 
 ## Collection Methodology
-All of the APIs listed here are used by the official Ohio State University iOS App, "Ohio State". This app was used in conjunction with the HTTPS proxy capabilities of [Charles](charlesproxy.com) to discover and document all APIs.
+All of the APIs listed here are used by the official Ohio State University iOS App, "Ohio State". This app was used in conjunction with the HTTPS proxy capabilities of [Charles](http://charlesproxy.com) to discover and document all APIs.
 
 ## Actual Usage
 All API endpoints as listed in this repository can be accessed using a secure HTTPS connection, and the **GET** HTTP verb.
